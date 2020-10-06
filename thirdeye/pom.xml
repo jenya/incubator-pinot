@@ -31,8 +31,8 @@
     <module>thirdeye-spi</module>
     <module>thirdeye-pinot</module>
     <module>thirdeye-coordinator</module>
-    <module>thirdeye-dist</module>
     <module>thirdeye-dashboard</module>
+    <module>thirdeye-dist</module>
   </modules>
 
   <properties>
